@@ -33,14 +33,6 @@ The purpose of this project is to successfully build a foundational quantitative
 5. Run algorithm in command Line
 6. Monitor Results on Alpaca Interface
 
-## Project Timeline
-    - June 2: Start Project
-    - June 13: First Draft of Project completed
-    - June 16: Final Draft of Project completed, Test System in live environment
-    - June 17: Test System in live environment
-    - June 18: Presentation
-    - After: can be iterated on as bootcamp continues
-
 ## Repository Introduction
 This GitHub repository contains the code for an algorythm that can be used in quantopian. The returns in the algorythm in its current state are not as optimal as possible, but the structure for an investment strategy that involves both longs and shorts that is done with technical analysis of common financial metrics is there to be modified according to the desired positions of the user. Using simple metrics like Closing Price, Simple Moving Average, and Historical Returns, we were able to outperform "common returns" on Quantopian, which means that we were able to outperform others who were using these same "factors" in their algorythms. In the future, this can be expanded upon to use much more complicated analysis, as well as optimized with machine learning. 
 
