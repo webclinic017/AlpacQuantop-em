@@ -58,16 +58,6 @@ Most importantly, this is a way to demonstrate how useful Quantopian can be for 
 
 We followed these steps in order to create the algorythm and then move it over to Alpaca. 
 
-
-### Version 1.0.0
-
-Live Date: June 18, 2020
-
-Team Goals:
-1. In groups of 2, develop the Alpaca and Quantopian aspects of the project for the first week of the project. 
-2. Meet halfway on June 13 after structure has been created to finalize the structure and begin testing to optimize results in an attempt to beat common returns. 
-3. On June 16, make finishing touches and final changes to ensure profitability and over-performance relative to other algorythms using similar factors. 
-
 ## Results
 ![quantopian_returns](Images/returns-final.JPG)
 ![Image of Returns](Images/numbers-final.JPG)
